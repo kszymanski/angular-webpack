@@ -5,10 +5,4 @@ import '../../public/css/styles.css';
   templateUrl: './app.component.html',
   styleUrls: ['./app.component.css']
 })
-export class AppComponent {
-    constructor(){
-      console.log('hello');
-      let dupa = '123';
-    }
-
- }
+export class AppComponent { }
